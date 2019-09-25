@@ -1,0 +1,8 @@
+{
+    "name": "js_sandbox",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "przemek.moszumanski",
+    "contributors": [],
+    "dependencies": {}
+}
